@@ -9,7 +9,7 @@ ul {
 
 .text.heading {
     font-weight: 600;
-    font-size: xx-large;
+    font-size: 74px;
     color: #EEEEEE;
     background-color: #393E46;
 }
@@ -21,7 +21,8 @@ line-height: 30px;
 }
 
 .subheading{
-    font-size: large;
+    font-size: x-large;
+    background-color: #00ADB5;
 }
 .text,
 p {
