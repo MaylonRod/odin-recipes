@@ -1,0 +1,29 @@
+.text {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.text.heading {
+    font-weight: 600;
+    font-size: xx-large;
+    color: #EEEEEE;
+    background-color: #393E46;
+}
+
+ul.menu {
+background-color: #00ADB5;
+font-size: large;
+line-height: 30px;
+}
+
+.subheading{
+    font-size: large;
+}
+.text,
+p {
+    color:#EEEEEE;
+}
